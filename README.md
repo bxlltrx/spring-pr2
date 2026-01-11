@@ -22,7 +22,7 @@
 
 ## 🧰 Используемые технологии
 
-- Java 25  
+- Java 17  
 - Spring Framework  
 - Spring MVC  
 - Spring Data JPA  
