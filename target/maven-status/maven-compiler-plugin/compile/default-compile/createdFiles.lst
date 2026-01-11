@@ -1,0 +1,10 @@
+com\example\library\repo\AuthorRepository.class
+com\example\library\repo\BookRepository.class
+com\example\library\service\BookService.class
+com\example\library\model\Author.class
+com\example\library\service\AuthorService.class
+com\example\library\controller\HomeController.class
+com\example\library\model\Book.class
+com\example\library\controller\BookController.class
+com\example\library\controller\AuthorController.class
+com\example\library\LibraryApplication.class
